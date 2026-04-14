@@ -36,13 +36,13 @@ body {
     #box-three {
         width: calc(50% - 10px);
         display: flex;
-        flex-direction: column; /* imagen arriba, texto abajo */
+        flex-direction: column;
     }
 
     #box-four {
         width: 100%;
         display: flex;
-        flex-direction: column; /* imagen arriba, texto abajo */
+        flex-direction: column;
     }
 }
 
